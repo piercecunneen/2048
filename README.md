@@ -8,4 +8,7 @@ Instructions:
         change Num_Trials to have program play game a certain amount of times. 
 
 
-Semster project for Scientific Computing Course freshman year.
+Semster project for Scientific Computing Course (for Statistics Major) freshman year at Notre Dame. 
+
+Collaborators:
+    Carolyn Yvellez
